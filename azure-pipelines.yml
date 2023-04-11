@@ -20,5 +20,3 @@ steps:
 
 - script: Schreibe einen Satz 
   displayName: 'Run a more multi-multi-line script'
-
-container: Hallo Hallo
